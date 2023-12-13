@@ -71,3 +71,8 @@ h6 {
 #__next {
   isolation: isolate;
 }
+
+#root,
+#__next {
+  isolation: isolate;
+}
